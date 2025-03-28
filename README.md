@@ -63,7 +63,7 @@ npx localtunnel --port 8501
 ✅ Integrate patient history for personalized treatment plans
 
 ## **🔹 Contributors**
-👤 **priyadharsanjh** - [GitHub](https://github.com/yourusername)
+👤 **Priyadharsanjh** - [GitHub](https://github.com/yourusername)
 
 ## **🔹 License**
 📜 This project is licensed under the **MIT License**.
