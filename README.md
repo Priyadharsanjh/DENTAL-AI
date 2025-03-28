@@ -62,9 +62,6 @@ npx localtunnel --port 8501
 ✅ Optimize real-time inference
 ✅ Integrate patient history for personalized treatment plans
 
-## **🔹 Contributors**
-👤 **Priyadharsanjh** - [GitHub](https://github.com/yourusername)
-
 ## **🔹 License**
 📜 This project is licensed under the **MIT License**.
 
